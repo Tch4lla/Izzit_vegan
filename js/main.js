@@ -54,10 +54,10 @@ function getFetch(){
           newICell.appendChild(newIText)
           newVCell.appendChild(newVText)
           if(veganStatus === 'no'){
-            //turn item red
+          
             newVCell.classList.add('non-vegan-item')
           }else if (veganStatus === 'unknown' || veganStatus === 'maybe'){
-            //turn items yellow  
+             
             newVCell.classList.add('unknown-maybe')
           }
         }
