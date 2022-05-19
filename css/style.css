@@ -55,6 +55,7 @@ img{
 
 h2{
   margin-bottom: 0;
+  padding-bottom: 40px;
 }
 
 table{
@@ -73,4 +74,15 @@ table, th, td{
 
 .unknown-maybe{
   background-color: yellow;
+}
+
+div{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+div section + section{
+  border: 2px solid black;
+  background-color: blueviolet;
 }
