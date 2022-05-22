@@ -78,7 +78,8 @@ table, th, td{
 
 div{
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
+  gap: 30px;
 }
 
 
