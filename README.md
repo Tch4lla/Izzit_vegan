@@ -3,7 +3,7 @@
 If you are vegan, it may be difficult to understand if the ingredients in your foods are actually in line with your lifestyle choices. This app is here to help
 **Link to project:** https://izzit.netlify.app/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](https://github.com/Tch4lla/Izzit_vegan/blob/main/izzitReadMe.png)
 
 ## How It's Made:
 
